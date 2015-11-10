@@ -1,6 +1,11 @@
 # ubuntu
 after fresh ubuntu install
 
+### git
+```bash
+sudo apt-get install git
+```
+
 ### nodejs
 https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
 
@@ -15,6 +20,6 @@ sudo npm install -g npm
 
 ### Yeoman
 http://yeoman.io/
-```
+```bash
 npm install -g yo
 ```
