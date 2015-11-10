@@ -12,3 +12,9 @@ sudo apt-get install -y nodejs
 # Update to latest npm
 sudo npm install -g npm
 ```
+
+### Yeoman
+http://yeoman.io/
+```
+npm install -g yo
+```
