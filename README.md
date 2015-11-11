@@ -21,5 +21,10 @@ sudo npm install -g npm
 ### Yeoman
 http://yeoman.io/
 ```bash
-npm install -g yo
+sudo npm install -g yo
+```
+
+### esling
+```bash
+sudo npm install -g eslint
 ```
