@@ -4,6 +4,8 @@ http://askubuntu.com/a/246849/41705
 
 http://blog.hanschen.org/2009/10/13/mouse-shortcuts-with-xbindkeys/
 
+Install some applications:
+
 ```bash
 sudo apt-get install xbindkeys xev  
 ```
