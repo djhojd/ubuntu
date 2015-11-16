@@ -17,10 +17,11 @@ xev | grep -A2 ButtonPress
 
 Create the xbindkeys config file using:
 
+```bash
 xbindkeys --defaults > $HOME/.xbindkeysrc  
+```
 
 Next we need to add the key/button bindings to the config file. You can open this file with gedit $HOME/.xbindkeysrc. 
-
 To make a button act as Ctrl we would add:
 ```
 "xte 'key Control_L'"
