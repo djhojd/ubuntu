@@ -1,6 +1,7 @@
 # Extra Mouse Buttons
 
 http://askubuntu.com/a/246849/41705
+
 http://blog.hanschen.org/2009/10/13/mouse-shortcuts-with-xbindkeys/
 
 ```bash
@@ -28,3 +29,10 @@ To make a button act as Ctrl we would add:
 b:1  
 ```
 This would bind Ctrl to mouse button one.
+
+### Logitech MX Revolution
+Bind vertical scroll click (button 17) to toggle volume
+```
+"amixer -D pulse sset Master toggle"
+  b:17
+```
